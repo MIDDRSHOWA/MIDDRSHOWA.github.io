@@ -2,7 +2,7 @@
 layout: default
 title: 昭和大学発達障害医療研究所
 ---
-HOME / [メンバー](./members.html) / [業績一覧](./publications.html) / 募集
+[HOME](https://middrshowa.github.io/) / [メンバー](./members.html) / [業績一覧](./publications.html) / 募集
 
 ---
 # ご挨拶 
@@ -19,4 +19,4 @@ HOME / [メンバー](./members.html) / [業績一覧](./publications.html) / �
 
 ---
 # お知らせ
-- 2023年3月1日〜2023年3月2日 [CPSYコース東京2023](https://sites.google.com/view/cpsycourse2023)が開催されます。当研究所の沖村先生も講師として参加されます。 オンライン登録締め切り：2023年2月15日（水）
+- 2023年3月1日〜2023年3月2日 [CPSYコース東京2023](https://sites.google.com/view/cpsycourse2023)が開催されます。当研究所の沖村先生も講師として参加されます。 <b>オンライン登録締め切り：2023年2月15日（水）</b>

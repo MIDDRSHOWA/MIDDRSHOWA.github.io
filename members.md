@@ -2,7 +2,7 @@
 layout: default
 title: 研究所職員一覧
 ---
-[HOME](https://middrshowa.github.io/) / メンバー / [業績一覧](./publications.html) / 募集
+[HOME](https://middrshowa.github.io/) / [メンバー](./members.html) / [業績一覧](./publications.html) / 募集
 
 ---
 # 研究所職員一覧
