@@ -2,7 +2,7 @@
 layout: default
 title: 昭和大学発達障害医療研究所
 ---
-HOME / [メンバー](./members.html) / 業績一覧 / 募集
+HOME / [メンバー](./members.html) / [業績一覧](./publications.html) / 募集
 
 ---
 # ご挨拶 
