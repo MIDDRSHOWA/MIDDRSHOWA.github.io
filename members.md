@@ -1,10 +1,10 @@
 ---
 layout: default
-title: メンバー一覧
+title: 研究所職員一覧
 ---
 [HOME](https://middrshowa.github.io/) / メンバー / 業績一覧 / 募集
 
 ---
-# メンバー一覧
+# 研究所職員一覧
 
 更新予定
