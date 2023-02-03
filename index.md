@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # ご挨拶
 
