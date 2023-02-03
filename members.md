@@ -16,7 +16,7 @@ title: 研究所職員一覧
 
 
 ## 研究員
-橋本　龍一郎 （客員教授）[業歴リスト](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
+橋本　龍一郎 （客員教授）[業績リスト](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
 沖村　宰（講師、医師）  
 板橋　貴史 （講師）[業績リスト](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
 青木　隆太（講師）  
