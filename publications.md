@@ -16,7 +16,9 @@ title: Publications
 
 # 2022年
 ## 査読付き論文
-- Tei, S., Tanicha, M., Itahashi, T., Aoki, Y.Y., Ohta, H., Qian, C., Hashimoto, R., Nakamura, M., Takahashi, H., Kato, N., Fujino, J. Decision flexibilities in autism spectrum disorder: an fMRI study of moral dilemmas. Social Cognitive and Affective Neuroscience (2022)<br>[https://doi.org/10.1093/scan/nsac023](https://doi.org/10.1093/scan/nsac023)
+- Tei, S., Tanicha, M., Itahashi, T., Aoki, Y.Y., Ohta, H., Qian, C., Hashimoto, R., Nakamura, M., Takahashi, H., Kato, N., Fujino, J. Decision flexibilities in autism spectrum disorder: an fMRI study of moral dilemmas. <b>Social Cognitive and Affective Neuroscience</b> (2022)<br>[https://doi.org/10.1093/scan/nsac023](https://doi.org/10.1093/scan/nsac023)
+- Tamon, H., Itahashi, T., Yamaguchi, S., Tachibana, Y., Fujino, J., Igarashi, M., Kawashima, M., Takahashi, R., Shinohara, N.A., Noda, Y., Nakajima, S., Hirota, T., Aoki, Y.Y. Autistic children and adolescents with frequent restricted interest and repetitive behavior showed more difficulty in social cognition during mask-wearing during the COVID-19 pandemic: a multisite survey. <b>BMC Psychiatry</b> (2022).<br>[https://doi.org/10.1186/s12888-022-04249-8](https://doi.org/10.1186/s12888-022-04249-8)
+
 
 ## 国内会議・国際会議
 
