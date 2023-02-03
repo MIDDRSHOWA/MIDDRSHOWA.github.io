@@ -1,6 +1,8 @@
 ---
-layout: page
 title: 昭和大学発達障害医療研究所
+layout: page
+callouts: home_callouts
+show_sidebar: true
 ---
 
 
