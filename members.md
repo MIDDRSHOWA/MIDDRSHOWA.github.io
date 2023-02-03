@@ -8,11 +8,11 @@ title: 研究所職員一覧
 # 研究所職員一覧
 
 ## 所長
-太田　晴久（所長、准教授、医師）  
+太田　晴久（所長、准教授、医師）  [researchmap](https://researchmap.jp/HOTA)
 
 
 ## 副所長
-中村　元昭 （准教授、医師）[業績リスト](https://scholar.google.com/citations?user=ZBhx9yAAAAAJ&hl=en)  
+中村　元昭 （准教授、医師）[researchmap](https://researchmap.jp/motoaki)、[業績リスト](https://scholar.google.com/citations?user=ZBhx9yAAAAAJ&hl=en)  
 
 
 ## 研究員
