@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+昭和大学発達障害医療研究所
 
-# ご挨拶
+# ご挨拶 
 
 昭和大学発達障害医療研究所 脳画像研究室は、
 - 自閉症スペクトラム障害(Autism Spectrum Disorder; ASD)
