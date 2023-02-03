@@ -9,7 +9,7 @@ HOME / メンバー / 業績一覧 / 募集
 
 昭和大学発達障害医療研究所 脳画像研究室は、
 - 自閉スペクトラム症（Autism Spectrum Disorder; ASD）
-- 注意欠如多動性障害（Attention Deficit Hyperactivity Disorder; ADHD）
+- 注意欠如多動性症（Attention Deficit Hyperactivity Disorder; ADHD）
 
 を主な対象として、質問紙調査から最新の脳科学研究にいたるまで、発達障害に関する幅広い臨床研究を行うことにより、発達障害で困っている方の特性理解だけでなく治療法の開発に繋げたいと考えています。
 
