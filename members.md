@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 研究所職員一覧
+title: Members
 ---
 [HOME](https://middrshowa.github.io/) / [メンバー](./members.html) / [業績一覧](./publications.html) / 募集
 
 ---
-# 研究所職員一覧
+
 
 ## 所長
 太田　晴久（所長、准教授、医師）  [researchmap](https://researchmap.jp/HOTA)
