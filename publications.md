@@ -6,7 +6,9 @@ title: Publications
 
 ---
 
-### Google citations: [Link](https://scholar.google.co.jp/citations?user=5ReuaNkAAAAJ&hl=ja)
+### Google citations: [Link](https://scholar.google.co.jp/citations?user=5ReuaNkAAAAJ&hl=ja) 
+
+---
 
 # 2023年
 ## プレプリント
@@ -16,6 +18,8 @@ title: Publications
 ## 査読付き論文
 
 ## 国内会議・国際会議
+
+---
 
 # 2022年
 ## 査読付き論文
