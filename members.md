@@ -16,7 +16,7 @@ title: Members
 
 
 ## 教職員
-加藤　進昌 （名誉教授）
+加藤　進昌 （名誉教授）  
 [橋本　龍一郎 （客員教授）](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
 高橋　英彦 （客員教授）  
 定松　美幸 （客員教授）  
