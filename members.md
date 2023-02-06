@@ -8,22 +8,22 @@ title: Members
 
 
 ## 所長
-太田　晴久（所長、准教授、医師）  [researchmap](https://researchmap.jp/HOTA)
+[太田　晴久（所長、准教授、医師）](https://researchmap.jp/HOTA)
 
 
 ## 副所長
-中村　元昭 （准教授、医師）[researchmap](https://researchmap.jp/motoaki)、[業績リスト](https://scholar.google.com/citations?user=ZBhx9yAAAAAJ&hl=en)  
+[中村　元昭 （准教授、医師）](https://scholar.google.com/citations?user=ZBhx9yAAAAAJ&hl=en)  
 
 
 ## 教職員
 加藤　進昌 （名誉教授）
-橋本　龍一郎 （客員教授）[業績リスト](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
+[橋本　龍一郎 （客員教授）](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
 高橋　英彦 （客員教授）  
 定松　美幸 （客員教授）  
 沖村　宰（講師、医師）  
-板橋　貴史 （講師）[業績リスト](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
+[板橋　貴史 （講師）](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
 青木　隆太（講師）  
-青木　悠太 （兼任講師、医師）[業績リスト](https://scholar.google.com/citations?user=46HN7h0AAAAJ&hl=en)  
+[青木　悠太 （兼任講師、医師）](https://scholar.google.com/citations?user=46HN7h0AAAAJ&hl=en)  
 藤野　純也 （兼任講師、医師）  
 武田　俊信 （兼任講師、医師）  
 熊崎　博一 （兼任講師、医師）  
