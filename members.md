@@ -19,6 +19,7 @@ title: Members
 加藤　進昌 （名誉教授）  
 [橋本　龍一郎 （客員教授）](https://scholar.google.com/citations?user=GR0lq9kAAAAJ&hl=en)  
 高橋　英彦 （客員教授）  
+池澤　聰 （客員教授）  
 定松　美幸 （客員教授）  
 沖村　宰（講師、医師）  
 [板橋　貴史 （講師）](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
