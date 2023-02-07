@@ -21,7 +21,7 @@ title: Members
 高橋　英彦 （客員教授）  
 池澤　聰 （客員教授）  
 定松　美幸 （客員教授）  
-沖村　宰（講師、医師）  
+[沖村　宰（講師、医師）](https://researchmap.jp/okimuratsukasa)  
 [板橋　貴史 （講師）](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
 青木　隆太（講師）  
 [青木　悠太 （兼任講師、医師）](https://scholar.google.com/citations?user=46HN7h0AAAAJ&hl=en)  
