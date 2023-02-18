@@ -15,12 +15,9 @@ title: 昭和大学発達障害医療研究所
 
 臨床と研究の緊密な連携により、発達障害の病態の解明、診断・治療法の確立を目標とし日々研究を行っております。当研究室の大きなと特徴は、MRIや脳波などの脳機能計測装置と経頭蓋磁気刺激（TMS）や視線方向計測器など、認知神経科学の研究ツールを組み合わせて複合的な研究をおこなえるという点です。
 
-構成メンバーは精神科医、臨床心理士、神経科学・心理学・情報工学系研究者など、さまざまなバックグランドを持つ研究者が、発達障害の病態解明と新しい介入方法の開発という目標のもと、研究に取り組んでいます。平成26年度には共同利用・共同研究拠点の「発達障害研究拠点」として文部科学省による認定を受けました。平成30年度からは「[戦略的国際脳科学研究推進プログラム](https://brainminds-beyond.jp/ja/)」に参画しています。こうした共同利用・共同研究、受託研究を通じて、学内外の研究者、医療・研究機関との交流を盛んにおこなっています。
+構成メンバーは精神科医、臨床心理士、神経科学・心理学・情報工学系研究者など、さまざまなバックグランドを持つ研究者が、発達障害の病態解明と新しい介入方法の開発という目標のもと、研究に取り組んでいます。平成26年度には共同利用・共同研究拠点の「発達障害研究拠点」として文部科学省による認定を受けました。平成30年度からは「[戦略的国際脳科学研究推進プログラム](https://brainminds-beyond.jp/ja/)」に参画しています。2023年度からは、「[ムーンショット目標９](https://www.jst.go.jp/moonshot/program/goal9/92_tsutsui.html)」に参画しています。こうした共同利用・共同研究、受託研究を通じて、学内外の研究者、医療・研究機関との交流を盛んにおこなっています。
 
 ---
 # お知らせ
-- 2023年2月14日 学術論文「[CRISIS AFAR: an international collaborative study of the impact of the COVID-19 pandemic on mental health and service access in youth with autism and neurodevelopmental conditions](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-022-00536-z)」がMolecular Autismに出版されました。
-
-> この論文は、COVID-19のパンデミックが自閉スペクトラム症（ASD）などの神経発達症（NDD）当事者の精神的健康とサービスへのアクセスにどのような影響を与えたかを調査した国際的な共同研究です。パンデミックに関連したストレスやサービスの中断が、若者の不安や抑うつ、自傷行為などに様々な影響を与えたことが分かりました。この研究は、ASD/NDD若者のニーズに応えるために必要な支援策や介入策を提案しています。
-
+- 2023年2月14日 学術論文「[CRISIS AFAR: an international collaborative study of the impact of the COVID-19 pandemic on mental health and service access in youth with autism and neurodevelopmental conditions](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-022-00536-z)」がMolecular Autismに出版されました。<br><br>この論文は、COVID-19のパンデミックが自閉スペクトラム症（ASD）などの神経発達症（NDD）当事者の精神的健康とサービスへのアクセスにどのような影響を与えたかを調査した国際的な共同研究です。パンデミックに関連したストレスやサービスの中断が、若者の不安や抑うつ、自傷行為などに様々な影響を与えたことが分かりました。この研究は、ASD/NDD若者のニーズに応えるために必要な支援策や介入策を提案しています。
 - 2023年3月1日〜2023年3月2日 [CPSYコース東京2023](https://sites.google.com/view/cpsycourse2023)が開催されます。当研究所の沖村先生も講師として参加します。 <s>オンライン登録締め切り：2023年2月15日（水）</s>
