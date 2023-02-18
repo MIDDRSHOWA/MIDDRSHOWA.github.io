@@ -19,4 +19,5 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2023年2月14日 学術論文「[CRISIS AFAR: an international collaborative study of the impact of the COVID-19 pandemic on mental health and service access in youth with autism and neurodevelopmental conditions](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-022-00536-z)」が出版されました。
 - 2023年3月1日〜2023年3月2日 [CPSYコース東京2023](https://sites.google.com/view/cpsycourse2023)が開催されます。当研究所の沖村先生も講師として参加します。 <s>オンライン登録締め切り：2023年2月15日（水）</s>
