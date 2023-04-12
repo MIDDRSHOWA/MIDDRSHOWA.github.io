@@ -19,6 +19,9 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2023年3月23日 学術論文「[Pathological social withdrawal in autism spectrum disorder: A case control study of hikikomori in Japan](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1114224/full)」が<b>Front. Psychiatry</b>に出版されました。<br><br>
+この論文は、自閉スペクトラム症（ASD）の特徴が引きこもりとどのように関連しているかを明らかにすることを目的とした、日本の引きこもり患者を対象とした症例対照研究です。<br><br>
+
 - 2023年3月17日 学術論文「[Distinctive alterations in the mesocorticolimbic circuits in various psychiatric disorders](https://doi.org/10.1111/pcn.13542)」が<b>Psychiatry and Clinical Neuroscience</b>に出版されました。<br><br>
 この論文は、精神疾患の原因となる脳内のドーパミン関連回路の異常を安静時fMRIデータを用いて調べました。この論文では、統合失調症、うつ病、自閉症の患者と健康な人を比較して、それぞれに特徴的な回路の変化を見つけました。<br><br>
 
