@@ -22,6 +22,9 @@ title: 昭和大学発達障害医療研究所
 - 2023年7月19日 学術論文「[Increased glutamate and glutamine levels and their relationship to astrocytes and dopaminergic transmissions in the brains of adults with autism](https://www.nature.com/articles/s41598-023-38306-3)」が<b>Scientific Reports</b>に出版されました。<br><br>
 この論文では、自閉症の脳内にグルタミン酸、グルタミン、ミオイノシトールのレベルが高いことがわかりました。これは、アストロサイトの活性化による神経興奮と抑制のバランスが乱れていることが自閉症の発症に関連しているかもしれません。<br><br>
 
+- 2023年6月30日　学術論文「[Neural correlates of perceptual switching and their association with empathy and alexithymia in individuals with and without autism spectrum disorder](https://doi.org/10.1016/j.jpsychires.2023.06.035)」が<b>Journal of Psychiatric Research</b>に出版されました。<br><br>
+自閉スペクトラム症（ASD）の人々は他者の感情を理解すること（共感）や自分自身の感情や思考を認識すること（アレキシサイミア）に苦労することがあり、これが社会的な能力に影響を及ぼす可能性があります。この研究では定型発達成人とASD成人の間で認知的な柔軟性と共感・アレキシサイミアとの関連を探求し、両グループの脳の活性化パターンが異なることが示されました。<br><br>
+
 - 2023年3月23日 学術論文「[Pathological social withdrawal in autism spectrum disorder: A case control study of hikikomori in Japan](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1114224/full)」が<b>Front. Psychiatry</b>に出版されました。<br><br>
 この論文は、自閉スペクトラム症（ASD）の特徴が引きこもりとどのように関連しているかを明らかにすることを目的とした、日本の引きこもり患者を対象とした症例対照研究です。<br><br>
 
