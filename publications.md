@@ -26,6 +26,3 @@ title: Publications
 - Vibert, B., Segura, P., ..., Aoki, Y., ..., Di Martino, A. CRISIS AFAR: an international collaborative study of the impact of the COVID-19 pandemic on mental health and service access in youth with autism and neurodevelopmental conditions. <b>Molecular Autism</b> (2023) [https://doi.org/10.1186/s13229-022-00536-z](https://doi.org/10.1186/s13229-022-00536-z)
 
 
-## 国内会議・国際会議
-
-
