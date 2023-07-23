@@ -19,6 +19,10 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2023年7月21日　学術論文「 [White matter alterations in Attention-Deficit/Hyperactivity Disorder (ADHD): a systematic review of 129 diffusion imaging studies with meta-analysis](https://www.nature.com/articles/s41380-023-02173-1)」が<b>Molecular Psychiatry</b>に出版されました。<br><br>
+このシステマティックレビュー論文では、注意欠如・多動症（ADHD）における拡散テンソル画像に基づく白質神経繊維の異常についてメタ解析を行いました。
+メタ解析の結果から、白質神経繊維の変容はADHDの成人では子供よりも顕著である可能性が示唆されましたが、研究間の方法論や画質の品質チェックの違いが結果の一貫性を低下させている事がわかりました。<br><br>
+
 - 2023年7月19日 学術論文「[Increased glutamate and glutamine levels and their relationship to astrocytes and dopaminergic transmissions in the brains of adults with autism](https://www.nature.com/articles/s41598-023-38306-3)」が<b>Scientific Reports</b>に出版されました。<br><br>
 この論文では、自閉症の脳内にグルタミン酸、グルタミン、ミオイノシトールのレベルが高いことがわかりました。これは、アストロサイトの活性化による神経興奮と抑制のバランスが乱れていることが自閉症の発症に関連しているかもしれません。<br><br>
 

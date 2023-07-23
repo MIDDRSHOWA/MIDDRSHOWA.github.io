@@ -20,6 +20,7 @@ title: Publications
 
 # 2023年
 ## 査読付き論文
+- Parlatini, V., Itahashi, T., Lee, L., Liu, S., Nguyen, T.T., Aoki, Y.Y., Forkel, S.J., Catani, M., Rubia, K., Zhou, J.H., Murphy, D.G.,Cortese, S. [White matter alterations in Attention-Deficit/Hyperactivity Disorder (ADHD): a systematic review of 129 diffusion imaging studies with meta-analysis](https://www.nature.com/articles/s41380-023-02173-1). <b>Molecular Psychiatry</b> (2023)
 - Oya, M., Matsuoka, K., ..., Itahashi, T., Aoki, Y.Y., Ohta, H., Hashimoto, R., ..., Nakamura, M., Kato, N., ..., Takahashi, H., Higuchi, M. Increased glutamate and glutamine levels and their relationship to astrocytes and dopaminergic transmissions in the brains of adults with autism. <b>Scientific Reports</b> (2023) [https://doi.org/10.1038/s41598-023-38306-3](https://doi.org/10.1038/s41598-023-38306-3)
 - Tei, S., Itahashi, T., Aoki, Y.Y., ..., Fujino, J. [Neural correlates of perceptual switching and their association with empathy and alexithymia in individuals with and without autism spectrum disorder](https://doi.org/10.1016/j.jpsychires.2023.06.035). <b>Journal of Psychiatric Research</b>(2023)
 - Yamada, M., ..., Iwanami, A., Ohta, H. Pathological social withdrawal in autism spectrum disorder: A case control study of hikikomori in Japan. <b>Front. Psychiatry</b> (2023) [https://doi.org/10.3389/fpsyt.2023.1114224](https://doi.org/10.3389/fpsyt.2023.1114224)
