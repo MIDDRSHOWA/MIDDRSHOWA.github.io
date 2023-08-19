@@ -19,6 +19,7 @@ title: Publications
 
 # 2023年
 ## 査読付き論文
+- Matsumoto, J., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Cerebral cortical structural alteration patterns across four major psychiatric disorders in 5549 individuals](https://www.nature.com/articles/s41380-023-02224-7). <b>Molecular Psychiatry</b> (2023)
 - Okada, N., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Subcortical volumetric alterations in four major psychiatric disorders: a mega-analysis study of 5604 subjects and a volumetric data-driven approach for classification](https://www.nature.com/articles/s41380-023-02141-9). <b>Molecular Psychiatry</b> (2023) [プレスリリース](https://byoutai.ncnp.go.jp/info/press-release20230804/)
 - Parlatini, V., Itahashi, T., Lee, L., Liu, S., Nguyen, T.T., Aoki, Y.Y., Forkel, S.J., Catani, M., Rubia, K., Zhou, J.H., Murphy, D.G.,Cortese, S. [White matter alterations in Attention-Deficit/Hyperactivity Disorder (ADHD): a systematic review of 129 diffusion imaging studies with meta-analysis](https://www.nature.com/articles/s41380-023-02173-1). <b>Molecular Psychiatry</b> (2023)
 - Oya, M., Matsuoka, K., ..., Itahashi, T., Aoki, Y.Y., Ohta, H., Hashimoto, R., ..., Nakamura, M., Kato, N., ..., Takahashi, H., Higuchi, M. Increased glutamate and glutamine levels and their relationship to astrocytes and dopaminergic transmissions in the brains of adults with autism. <b>Scientific Reports</b> (2023) [https://doi.org/10.1038/s41598-023-38306-3](https://doi.org/10.1038/s41598-023-38306-3)
