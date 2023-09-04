@@ -18,7 +18,7 @@ title: 昭和大学発達障害医療研究所
 構成メンバーは精神科医、臨床心理士、神経科学・心理学・情報工学系研究者など、さまざまなバックグランドを持つ研究者が、発達障害の病態解明と新しい介入方法の開発という目標のもと、研究に取り組んでいます。平成26年度には共同利用・共同研究拠点の「発達障害研究拠点」として文部科学省による認定を受けました。平成30年度からは「[戦略的国際脳科学研究推進プログラム](https://brainminds-beyond.jp/ja/)」に参画しています。2023年度からは、「[ムーンショット目標９](https://www.jst.go.jp/moonshot/program/goal9/92_tsutsui.html)」に参画しています。こうした共同利用・共同研究、受託研究を通じて、学内外の研究者、医療・研究機関との交流を盛んにおこなっています。
 
 ---
-# お知らせ学術論文「
+# お知らせ
 - 2023年8月19日　学術論文「[Cerebral cortical structural alteration patterns across four major psychiatric disorders in 5549 individuals](https://www.nature.com/articles/s41380-023-02224-7)」が<b>Molecular Psychiatry</b>に出版されました。<br><br>
 
 - 2023年8月4日　学術論文「[Subcortical volumetric alterations in four major psychiatric disorders: a mega-analysis study of 5604 subjects and a volumetric data-driven approach for classification](https://www.nature.com/articles/s41380-023-02141-9)」が<b>Molecular Psychiatry</b>に出版されました。プレスリリースは[こちら](https://byoutai.ncnp.go.jp/info/press-release20230804/)<br><br>
