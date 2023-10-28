@@ -19,6 +19,8 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2023年10月16日　学術論文「[Aberrant sense of agency induced by delayed prediction signals in schizophrenia: a computational modeling study](https://www.nature.com/articles/s41537-023-00403-7)」が<b>Schizophrenia</b>に出版されました。<br><br>
+
 - 2023年8月19日　学術論文「[Cerebral cortical structural alteration patterns across four major psychiatric disorders in 5549 individuals](https://www.nature.com/articles/s41380-023-02224-7)」が<b>Molecular Psychiatry</b>に出版されました。<br><br>
 
 - 2023年8月4日　学術論文「[Subcortical volumetric alterations in four major psychiatric disorders: a mega-analysis study of 5604 subjects and a volumetric data-driven approach for classification](https://www.nature.com/articles/s41380-023-02141-9)」が<b>Molecular Psychiatry</b>に出版されました。プレスリリースは[こちら](https://byoutai.ncnp.go.jp/info/press-release20230804/)<br><br>

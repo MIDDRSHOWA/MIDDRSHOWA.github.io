@@ -12,13 +12,13 @@ title: Publications
 
 ## プレプリント
 - Itahashi, T., Yamashita, A., ... , Aoki, Y.Y., Fujino, J., ... , Nakamura, N., Aoki, R., Ohta, H., ..., , Kato, N., ..., Hashimoto, R. Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study. [https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1](https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1)
-- Okimura, T., Maeda, T., Mimura, M., Yamashita, Y. Aberrant sense of agency induced by a delayed prediction signal in schizophrenia: a computational modeling study. [https://psyarxiv.com/8dgs5/](https://psyarxiv.com/8dgs5/)
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
 
 ---
 
 # 2023年
 ## 査読付き論文
+- Okimura, T., Maeda, T., Mimura, M., Yamashita, Y. [Aberrant sense of agency induced by delayed prediction signals in schizophrenia: a computational modeling study](https://www.nature.com/articles/s41537-023-00403-7). <b>Schizophrenia</b>(2023)
 - Matsumoto, J., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Cerebral cortical structural alteration patterns across four major psychiatric disorders in 5549 individuals](https://www.nature.com/articles/s41380-023-02224-7). <b>Molecular Psychiatry</b> (2023)
 - Okada, N., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Subcortical volumetric alterations in four major psychiatric disorders: a mega-analysis study of 5604 subjects and a volumetric data-driven approach for classification](https://www.nature.com/articles/s41380-023-02141-9). <b>Molecular Psychiatry</b> (2023) [プレスリリース](https://byoutai.ncnp.go.jp/info/press-release20230804/)
 - Parlatini, V., Itahashi, T., Lee, L., Liu, S., Nguyen, T.T., Aoki, Y.Y., Forkel, S.J., Catani, M., Rubia, K., Zhou, J.H., Murphy, D.G.,Cortese, S. [White matter alterations in Attention-Deficit/Hyperactivity Disorder (ADHD): a systematic review of 129 diffusion imaging studies with meta-analysis](https://www.nature.com/articles/s41380-023-02173-1). <b>Molecular Psychiatry</b> (2023)
