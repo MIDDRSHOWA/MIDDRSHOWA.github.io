@@ -29,3 +29,5 @@ title: Publications
 - Vibert, B., Segura, P., ..., Aoki, Y., ..., Di Martino, A. CRISIS AFAR: an international collaborative study of the impact of the COVID-19 pandemic on mental health and service access in youth with autism and neurodevelopmental conditions. <b>Molecular Autism</b> (2023) [https://doi.org/10.1186/s13229-022-00536-z](https://doi.org/10.1186/s13229-022-00536-z)
 
 
+## Book chapter
+- Naoe, T., Okimura, T., Iwabuchi, T., Kiyama, S., Makuuchi, M. [Pragmatic atypicality of individuals with autism spectrum disorder: Preliminary results of a production study of sentence-final particles in Japanese](https://doi.org/10.1515/9783110778939-010). <b>Interaction Between Linguistic and Nonlinguistic Factors</b>. Vol. 2. (2023).
