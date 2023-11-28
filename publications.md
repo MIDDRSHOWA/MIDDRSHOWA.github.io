@@ -18,6 +18,7 @@ title: Publications
 
 # 2023年
 ## 査読付き論文
+- Matsuhashi, K., Itahashi, T., Aoki, R., Hashimoto, R. [Meta-analysis of structural integrity of white matter and functional connectivity in developmental stuttering](https://doi.org/10.1016/j.brainresbull.2023.110827). <b>Brain Research Bulletin</b> (2023)
 - Okimura, T., Maeda, T., Mimura, M., Yamashita, Y. [Aberrant sense of agency induced by delayed prediction signals in schizophrenia: a computational modeling study](https://www.nature.com/articles/s41537-023-00403-7). <b>Schizophrenia</b>(2023)
 - Matsumoto, J., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Cerebral cortical structural alteration patterns across four major psychiatric disorders in 5549 individuals](https://www.nature.com/articles/s41380-023-02224-7). <b>Molecular Psychiatry</b> (2023)
 - Okada, N., ..., Itahashi, T., ..., Hashimoto, R., ..., Hashimoto, R.: [Subcortical volumetric alterations in four major psychiatric disorders: a mega-analysis study of 5604 subjects and a volumetric data-driven approach for classification](https://www.nature.com/articles/s41380-023-02141-9). <b>Molecular Psychiatry</b> (2023) [プレスリリース](https://byoutai.ncnp.go.jp/info/press-release20230804/)
