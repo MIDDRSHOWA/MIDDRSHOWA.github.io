@@ -11,6 +11,7 @@ title: Publications
 ---
 
 ## プレプリント
+- Yamashita, O., et al. Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile. [https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1](https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1)
 - Takahara, Y., et al. Comprehensive evaluation of pipelines for diagnostic biomarkers of major depressive disorder using multi-site resting-state fMRI datasets. [https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract](https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract)
 - Itahashi, T., Yamashita, A., ... , Aoki, Y.Y., Fujino, J., ... , Nakamura, N., Aoki, R., Ohta, H., ..., , Kato, N., ..., Hashimoto, R. Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study. [https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1](https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1)
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
