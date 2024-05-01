@@ -17,7 +17,9 @@ title: Publications
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
 
 ---
-
+# 2024年
+## 査読付き論文
+- Tamon, H., Fujino, J., Itahashi, T., Frahm, L., Parlatini, V., Aoki, YY., Castellanos, FX, Eickhoff, SB., Cortese, S.: [Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies](https://doi.org/10.1176/appi.ajp.20230270). <b>The American Journal of Psychiatry</b>. (2024)
 # 2023年
 ## 査読付き論文
 - Matsuhashi, K., Itahashi, T., Aoki, R., Hashimoto, R. [Meta-analysis of structural integrity of white matter and functional connectivity in developmental stuttering](https://doi.org/10.1016/j.brainresbull.2023.110827). <b>Brain Research Bulletin</b> (2023)
