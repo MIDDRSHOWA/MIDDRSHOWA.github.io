@@ -19,6 +19,7 @@ title: Publications
 ---
 # 2024年
 ## 査読付き論文
+- Okuzumi, S., Tei, S., Itahashi, T.,  Aoki, YY., Hashimoto,R-I.,  Nakamura, M., Takahashi, H., Ohta, H., Fujino, J..: [Roles of empathy in altruistic cooperation in adults with and without autism spectrum disorder](https://doi.org/10.1016/j.heliyon.2024.e36255). <b>Heliyon</b>. (2024)
 - Tamon, H., Fujino, J., Itahashi, T., Frahm, L., Parlatini, V., Aoki, YY., Castellanos, FX, Eickhoff, SB., Cortese, S.: [Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies](https://doi.org/10.1176/appi.ajp.20230270). <b>The American Journal of Psychiatry</b>. (2024)
 
 
