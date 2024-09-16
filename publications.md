@@ -19,6 +19,7 @@ title: Publications
 ---
 # 2024年
 ## 査読付き論文
+- Hashimoto, R-I., Okada, R., Aoki, R., Nakamura, M., Ohta, H., Itahashi, T.: [Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder](https://doi.org/10.1093/cercor/bhae363). <b>Cerebral Cortex</b>. (2024)
 - Tanaka, SC., Kasai, K., Okamoto, Y., Koike, S., Hayashi, T. et al.: [The status of MRI databases across the world focused on psychiatric and neurological disorders](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13717). <b>Psychiatry and Clinical Neurosciences</b>. (2024)
 - Okuzumi, S., Tei, S., Itahashi, T.,  Aoki, YY., Hashimoto,R-I.,  Nakamura, M., Takahashi, H., Ohta, H., Fujino, J..: [Roles of empathy in altruistic cooperation in adults with and without autism spectrum disorder](https://doi.org/10.1016/j.heliyon.2024.e36255). <b>Heliyon</b>. (2024)
 - Tamon, H., Fujino, J., Itahashi, T., Frahm, L., Parlatini, V., Aoki, YY., Castellanos, FX, Eickhoff, SB., Cortese, S.: [Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies](https://doi.org/10.1176/appi.ajp.20230270). <b>The American Journal of Psychiatry</b>. (2024)
