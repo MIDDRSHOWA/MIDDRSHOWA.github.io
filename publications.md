@@ -13,12 +13,12 @@ title: Publications
 ## プレプリント
 - Yamashita, O., et al. Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile. [https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1](https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1)
 - Takahara, Y., et al. Comprehensive evaluation of pipelines for diagnostic biomarkers of major depressive disorder using multi-site resting-state fMRI datasets. [https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract](https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract)
-- Itahashi, T., Yamashita, A., ... , Aoki, Y.Y., Fujino, J., ... , Nakamura, N., Aoki, R., Ohta, H., ..., , Kato, N., ..., Hashimoto, R. Generalizable neuromarker for autism spectrum disorder across imaging sites and developmental stages: A multi-site study. [https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1](https://www.biorxiv.org/content/10.1101/2023.03.26.534053v1)
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
 
 ---
 # 2024年
 ## 査読付き論文
+- Itahashi, T., Yamashita, A., Takahara, Y., Yahata, N., Aoki, Y. Y., Fujino, J., Yoshihara, Y., Nakamura, M., Aoki, R., Okimura, T., Ohta, H., Sakai, Y., Takamura, M., Ichikawa, N., Okada, G., Okada, N., Kasai, K., Tanaka, S. C., Imamizu, H., Kato, N., Okamoto, Y., Takahashi, H., Kawato, M., Yamashita, O., Hashimoto, R-I.: [Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism](https://www.nature.com/articles/s41380-024-02759-3). <b>Molecular Psychiatry</b>. (2024)
 - Hashimoto, R-I., Okada, R., Aoki, R., Nakamura, M., Ohta, H., Itahashi, T.: [Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder](https://doi.org/10.1093/cercor/bhae363). <b>Cerebral Cortex</b>. (2024)
 - Tanaka, SC., Kasai, K., Okamoto, Y., Koike, S., Hayashi, T. et al.: [The status of MRI databases across the world focused on psychiatric and neurological disorders](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13717). <b>Psychiatry and Clinical Neurosciences</b>. (2024)
 - Okuzumi, S., Tei, S., Itahashi, T.,  Aoki, YY., Hashimoto,R-I.,  Nakamura, M., Takahashi, H., Ohta, H., Fujino, J..: [Roles of empathy in altruistic cooperation in adults with and without autism spectrum disorder](https://doi.org/10.1016/j.heliyon.2024.e36255). <b>Heliyon</b>. (2024)

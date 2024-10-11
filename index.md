@@ -19,6 +19,10 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2024年9月28日　学術論文「[Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism](https://www.nature.com/articles/s41380-024-02759-3)」が「<b>Molecular Psychiatry</b>」に出版されました。<br><br>
+
+- 2024年9月12日　学術論文「[Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder](https://doi.org/10.1093/cercor/bhae363)」が「<b>Cerebral Cortex</b>」に出版されました。<br><br>
+
 - 2024年4月30日　学術論文「[Shared and Specific Neural Correlates of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder: A Meta-Analysis of 243 Task-Based Functional MRI Studies](https://doi.org/10.1176/appi.ajp.20230270)」が「<b>The American Journal of Psychiatry</b>」に出版されました。<br><br>
 
 - 2023年10月16日　学術論文「[Aberrant sense of agency induced by delayed prediction signals in schizophrenia: a computational modeling study](https://www.nature.com/articles/s41537-023-00403-7)」が<b>Schizophrenia</b>に出版されました。<br><br>
