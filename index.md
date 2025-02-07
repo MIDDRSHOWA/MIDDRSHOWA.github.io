@@ -19,6 +19,9 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2025年2月3日　学術論文「[Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition](https://www.nature.com/articles/s41598-025-88733-7)」が「<b>Scientific Reports</b>」に出版されました。<br><br>
+
+
 - 2024年9月28日　学術論文「[Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism](https://www.nature.com/articles/s41380-024-02759-3)」が「<b>Molecular Psychiatry</b>」に出版されました。<br><br>
 
 - 2024年9月12日　学術論文「[Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder](https://doi.org/10.1093/cercor/bhae363)」が「<b>Cerebral Cortex</b>」に出版されました。<br><br>
