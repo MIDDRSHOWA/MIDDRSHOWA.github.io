@@ -16,7 +16,7 @@ title: Publications
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
 
 ---
-# 2024年
+# 2025年
 ## 査読付き論文
 - Itahashi, T., Aoki, R., Nakamura, M., Ohta, H., Hashimoto, R.: [Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition](https://www.nature.com/articles/s41598-025-88733-7). <b>Scientific Reports</b>. (2025)
 
