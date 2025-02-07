@@ -18,6 +18,11 @@ title: Publications
 ---
 # 2024年
 ## 査読付き論文
+- Itahashi, T., Aoki, R., Nakamura, M., Ohta, H., Hashimoto, R.: [Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition](https://www.nature.com/articles/s41598-025-88733-7). <b>Scientific Reports</b>. (2025)
+
+
+# 2024年
+## 査読付き論文
 - Itahashi, T., Yamashita, A., Takahara, Y., Yahata, N., Aoki, Y. Y., Fujino, J., Yoshihara, Y., Nakamura, M., Aoki, R., Okimura, T., Ohta, H., Sakai, Y., Takamura, M., Ichikawa, N., Okada, G., Okada, N., Kasai, K., Tanaka, S. C., Imamizu, H., Kato, N., Okamoto, Y., Takahashi, H., Kawato, M., Yamashita, O., Hashimoto, R-I.: [Generalizable and transportable resting-state neural signatures characterized by functional networks, neurotransmitters, and clinical symptoms in autism](https://www.nature.com/articles/s41380-024-02759-3). <b>Molecular Psychiatry</b>. (2024)
 - Hashimoto, R-I., Okada, R., Aoki, R., Nakamura, M., Ohta, H., Itahashi, T.: [Functional alterations of lateral temporal cortex for processing voice prosody in adults with autism spectrum disorder](https://doi.org/10.1093/cercor/bhae363). <b>Cerebral Cortex</b>. (2024)
 - Tanaka, SC., Kasai, K., Okamoto, Y., Koike, S., Hayashi, T. et al.: [The status of MRI databases across the world focused on psychiatric and neurological disorders](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13717). <b>Psychiatry and Clinical Neurosciences</b>. (2024)
