@@ -11,13 +11,16 @@ title: Publications
 ---
 
 ## プレプリント
+- Shikauchi, Y., et al. Quantifying state-dependent control properties of brain dynamics from perturbation responses. [https://doi.org/10.1101/2025.02.18.638784](https://doi.org/10.1101/2025.02.18.638784)
 - Yamashita, O., et al. Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile. [https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1](https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1)
-- Takahara, Y., et al. Comprehensive evaluation of pipelines for diagnostic biomarkers of major depressive disorder using multi-site resting-state fMRI datasets. [https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract](https://www.biorxiv.org/content/10.1101/2024.03.17.584538v1.abstract)
 - Fujiwara, M., Numano, S., Tanaka, T., Nakamura, M., Kato, N., Haruno, M. Subgroups of people with high Autism-Spectrum Quotient scores identified from a large set of personality traits and attributes. [https://doi.org/10.1101/2022.07.06.22277323](https://doi.org/10.1101/2022.07.06.22277323)
 
 ---
 # 2025年
 ## 査読付き論文
+- Yasuda, Y., Ito, S., Matsumoto, J., Okada, N., Onitsuka, T., Ikeda, M., Kushima, I., Sumiyoshi, C., Fukunaga, M., Nemoto, K., Miura, K., Hashimoto, N., Ohi, K., Takahashi, T., Sasabayashi, D., Koeda, M., Yamamori, H., Fujimoto, M., Takano, H., Hasegawa, N., Narita, H., Yamamoto, M., Tha, KK., Kikuchi, M., Kamishikiryo, T., Itai, E., Okubo, Y., Tateno, A., Nakamura, M., Kubota, M., Igarashi, H., Hirano, Y., Okada, G., Miyata, J., Numata, S., Abe, O., Yoshimura, R., Nakagawa, S., Yamasue, H., Ozaki, N., Kasai, K., Hashimoto, R: [Proposal for a Novel Classification of Patients With Enlarged Ventricles and Cognitive Impairment Based on Data-Driven Analysis of Neuroimaging Results in Patients With Psychiatric Disorders](https://onlinelibrary.wiley.com/doi/full/10.1002/npr2.70010). <b>Neuropsychopharmacology Reports</b>. (2025) 
+- Takahara, Y., Kashiwagi, Y., Tokuda, T., Yoshimoto, J., Sakai, Y., Yamashita, A., Yoshioka, T., Takahahshi, H., Mizuta, H., Kasai, K., Kunimatsu, A., Okada, N., Itai, E., Shinzato, H., Yokoyama, S., Masuda, Y., Mitsuyama, Y., Okada, G., Okamoto, Y., Itahashi, T., Ohta, H., Hashimoto, R-I., Harada, K., Yamagata, H., Matsubara, T., Matsuo, K., Tanaka, SC., Imamizu, H., Ogawa, K., Momosaki, S., Kawato, M., Yamashita, O. [Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets](https://doi.org/10.1016/j.neunet.2025.107335). <b>Neural Networks</b> (2025)
+- Hashimoto, R-I., Aoki, R., Ohta, H., Itahashi, T.: [Neural substrates of multidimensional psychological characteristics of remembering episodes with autobiographical significance](https://academic.oup.com/cercor/article/35/2/bhaf033/8039140). <b>Cerebral Cortex</b>. (2025)
 - Itahashi, T., Aoki, R., Nakamura, M., Ohta, H., Hashimoto, R.: [Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition](https://www.nature.com/articles/s41598-025-88733-7). <b>Scientific Reports</b>. (2025)
 
 

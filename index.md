@@ -19,6 +19,15 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2025年2月28日　学術論文「[Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets](https://doi.org/10.1016/j.neunet.2025.107335)」が「<b>Neural Networks</b>」に出版されました。<br><br>
+
+
+- 2025年2月27日　学術論文「[Neural substrates of multidimensional psychological characteristics of remembering episodes with autobiographical significance](https://academic.oup.com/cercor/article/35/2/bhaf033/8039140)」が「<b>Cerebral Cortex</b>」に出版されました。<br><br>
+
+
+- 2025年2月26日　学術論文「[Proposal for a Novel Classification of Patients With Enlarged Ventricles and Cognitive Impairment Based on Data-Driven Analysis of Neuroimaging Results in Patients With Psychiatric Disorders](https://onlinelibrary.wiley.com/doi/full/10.1002/npr2.70010)」が「<b>Neuropsychopharmacology Reports</b>」に出版されました。<br><br>
+
+
 - 2025年2月3日　学術論文「[Sensory seeking and its influence on sustained attention performance in adult males with Autism Spectrum Condition](https://www.nature.com/articles/s41598-025-88733-7)」が「<b>Scientific Reports</b>」に出版されました。<br><br>
 
 
