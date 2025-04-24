@@ -11,6 +11,7 @@ title: Publications
 ---
 
 ## プレプリント
+- Itahashi, T., et al. Iron deposition and functional connectivity alterations in the right substantia nigra of adult males with autism. [https://www.biorxiv.org/content/10.1101/2025.04.18.649491v1](https://www.biorxiv.org/content/10.1101/2025.04.18.649491v1)
 - Yamashita, A., et al. Unsupervised feature computation-based feature selection robustly extracted resting-state functional connectivity patterns related to mental disorders. [https://www.biorxiv.org/content/10.1101/2025.04.14.648842v1](https://www.biorxiv.org/content/10.1101/2025.04.14.648842v1)
 - Shikauchi, Y., et al. Quantifying state-dependent control properties of brain dynamics from perturbation responses. [https://doi.org/10.1101/2025.02.18.638784](https://doi.org/10.1101/2025.02.18.638784)
 - Yamashita, O., et al. Computational Mechanisms of Neuroimaging Biomarkers Uncovered by Multicenter Resting-State fMRI Connectivity Variation Profile. [https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1](https://www.biorxiv.org/content/10.1101/2024.04.01.587535v1)
