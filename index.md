@@ -19,6 +19,10 @@ title: 昭和大学発達障害医療研究所
 
 ---
 # お知らせ
+- 2025年8月11日　学術論文「[Iron deposition and functional connectivity alterations in the right substantia nigra of adult males with autism](https://academic.oup.com/cercor/article-abstract/35/8/bhaf216/8230125)」が「<b>Cerebral Cortex</b>」に出版されました。<br><br>
+
+- 2025年8月7日　学術論文「[Computational mechanisms of neuroimaging biomarkers uncovered by multicenter resting-state fMRI connectivity variation profile](https://www.nature.com/articles/s41380-025-03134-6)」が「<b>Molecular Psychiatry</b>」に出版されました。<br><br>
+
 - 2025年2月28日　学術論文「[Comprehensive evaluation of pipelines for classification of psychiatric disorders using multi-site resting-state fMRI datasets](https://doi.org/10.1016/j.neunet.2025.107335)」が「<b>Neural Networks</b>」に出版されました。<br><br>
 
 
