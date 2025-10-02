@@ -23,7 +23,7 @@ title: Members
 定松　美幸 （客員教授）  
 [沖村　宰（講師、医師）](https://researchmap.jp/okimuratsukasa)  
 [板橋　貴史 （講師）](https://scholar.google.com/citations?user=mxAFng4AAAAJ&hl=en)  
-[鹿内　友美（講師）(https://shikauchiy.github.io/index.html)]  
+[鹿内　友美（講師）](https://shikauchiy.github.io/index.html) 
 [直江　大河（助教）](https://researchmap.jp/taiga_naoe13/)  
 [青木　悠太 （兼任講師、医師）](https://scholar.google.com/citations?user=46HN7h0AAAAJ&hl=en)  
 青木　隆太（兼任講師）  
