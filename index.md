@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 昭和大学発達障害医療研究所
+title: 昭和医科大学発達障害医療研究所
 ---
 [HOME](https://middrshowa.github.io/) / [メンバー](./members.html) / 研究プロジェクト一覧 / [業績一覧](./publications.html) / 募集
 
 ---
 # ご挨拶 
 
-昭和大学発達障害医療研究所 脳画像研究室は、
+昭和医科大学発達障害医療研究所 脳画像研究室は、
 - 自閉スペクトラム症（Autism Spectrum Disorder; ASD）
 - 注意欠如多動性症（Attention Deficit Hyperactivity Disorder; ADHD）
 
